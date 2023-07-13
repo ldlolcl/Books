@@ -1,0 +1,368 @@
+@import url('reset.css');
+@import url('typography.css');
+body {	background-color: #e0e0e0;}
+/* Status Bar */
+/* div#body */
+div#body {margin: 20px auto 20px auto;
+	width: 1060px;}
+div#body-con {
+    padding: 25px;
+    background: #fff;
+   -webkit-box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
+   -moz-box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
+   box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
+min-height:800px;}
+td img {padding-right:1px;}
+
+div#block {width:1009px;padding:0px;;margin:0px;display:block;overflow-x:auto;}
+
+a#a1 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/brian_tracy_1.jpg") 0 0;}
+a#a1:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/brian_tracy_1.jpg") 100px 0;}
+
+a#a2 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/privychki_uspeshnykh_lyudey.jpg") 0 0;}
+a#a2:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/privychki_uspeshnykh_lyudey.jpg") 100px 0;}
+
+a#a3 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zhivi_so_strastyu.jpg") 0 0;}
+a#a3:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zhivi_so_strastyu.jpg") 100px 0;}
+
+a#a4 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zhivi_osmislenno.jpg") 0 0;}
+a#a4:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zhivi_osmislenno.jpg") 100px 0;}
+
+a#a5 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/podnimis_nad_tolpoi.jpg") 0 0;}
+a#a5:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/podnimis_nad_tolpoi.jpg") 100px 0;}
+
+a#a6 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/karnegi_5.jpg") 0 0;}
+a#a6:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/karnegi_5.jpg") 100px 0;}
+
+a#a7 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/byd_lychshei_versiei.jpg") 0 0;}
+a#a7:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/byd_lychshei_versiei.jpg") 100px 0;}
+
+a#a8 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/robbins_2.jpg") 0 0;}
+a#a8:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/robbins_2.jpg") 100px 0;}
+
+a#a9 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/1000likii.jpg") 0 0;}
+a#a9:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/1000likii.jpg") 100px 0;}
+
+a#a10 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pyt_na100iaschego.jpg") 0 0;}
+a#a10:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pyt_na100iaschego.jpg") 100px 0;}
+
+a#a11 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/razbydi_ispolina.jpg") 0 0;}
+a#a11:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/razbydi_ispolina.jpg") 100px 0;}
+
+a#a12 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/na_predele.jpg") 0 0;}
+a#a12:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/na_predele.jpg") 100px 0;}
+
+a#a13 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ne_ruchite_na_sobaky.jpg") 0 0;}
+a#a13:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ne_ruchite_na_sobaky.jpg") 100px 0;}
+
+a#a14 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/branson.jpg") 0 0;}
+a#a14:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/branson.jpg") 100px 0;}
+
+a#a15 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/atlant.jpg") 0 0;}
+a#a15:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/atlant.jpg") 100px 0;}
+
+a#a16 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/vazhnie_godi.jpg") 0 0;}
+a#a16:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/vazhnie_godi.jpg") 100px 0;}
+
+a#a17 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/sila_voli.jpg") 0 0;}
+a#a17:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/sila_voli.jpg") 100px 0;}
+
+a#a18 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/45_taty.jpg") 0 0;}
+a#a18:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/45_taty.jpg") 100px 0;}
+
+a#a19 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/transformator.jpg") 0 0;}
+a#a19:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/transformator.jpg") 100px 0;}
+
+a#a20 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/hill_2.jpg") 0 0;}
+a#a20:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/hill_2.jpg") 100px 0;}
+
+a#a21 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kniga_kotoroi_net.jpg") 0 0;}
+a#a21:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kniga_kotoroi_net.jpg") 100px 0;}
+
+a#a22 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pochemy_myzhchini.jpg") 0 0;}
+a#a22:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pochemy_myzhchini.jpg") 100px 0;}
+
+a#a23 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/8_navik.jpg") 0 0;}
+a#a23:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/8_navik.jpg") 100px 0;}
+
+a#a24 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/48_zakonov_vlasti.jpg") 0 0;}
+a#a24:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/48_zakonov_vlasti.jpg") 100px 0;}
+
+a#a25 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/robin_sharma_4.jpg") 0 0;}
+a#a25:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/robin_sharma_4.jpg") 100px 0;}
+
+a#a26 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/vavilon.jpg") 0 0;}
+a#a26:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/vavilon.jpg") 100px 0;}
+
+a#a27 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ekstrim_menedzhment.jpg") 0 0;}
+a#a27:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ekstrim_menedzhment.jpg") 100px 0;}
+
+a#a28 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/tarzan_3.jpg") 0 0;}
+a#a28:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/tarzan_3.jpg") 100px 0;}
+
+a#a29 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ekstrim_menedzhment_2.jpg") 0 0;}
+a#a29:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ekstrim_menedzhment_2.jpg") 100px 0;}
+
+a#a30 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/tin'kov.jpg") 0 0;}
+a#a30:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/tin'kov.jpg") 100px 0;}
+
+a#a31 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ilon_mask.jpg") 0 0;}
+a#a31:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ilon_mask.jpg") 100px 0;}
+
+a#a32 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/grills_1.jpg") 0 0;}
+a#a32:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/grills_1.jpg") 100px 0;}
+
+a#a33 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/volk_1.jpg") 0 0;}
+a#a33:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/volk_1.jpg") 100px 0;}
+
+a#a34 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/starbucks.jpg") 0 0;}
+a#a34:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/starbucks.jpg") 100px 0;}
+
+a#a35 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/alibaba.jpg") 0 0;}
+a#a35:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/alibaba.jpg") 100px 0;}
+
+a#a36 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dzhedaiskie_texniki.jpg") 0 0;}
+a#a36:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dzhedaiskie_texniki.jpg") 100px 0;}
+
+a#a37 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/lifehaks.jpg") 0 0;}
+a#a37:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/lifehaks.jpg") 100px 0;}
+
+a#a38 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kak_coca_cola.jpg") 0 0;}
+a#a38:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kak_coca_cola.jpg") 100px 0;}
+
+a#a39 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/transformator_3.jpg") 0 0;}
+a#a39:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/transformator_3.jpg") 100px 0;}
+
+a#a40 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/klizma.jpg") 0 0;}
+a#a40:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/klizma.jpg") 100px 0;}
+
+a#a41 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/skotni_dvor.jpg") 0 0;}
+a#a41:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/skotni_dvor.jpg") 100px 0;}
+
+a#a42 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/hoking_2.jpg") 0 0;}
+a#a42:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/hoking_2.jpg") 100px 0;}
+
+a#a43 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ne_sxodite_s_yma.jpg") 0 0;}
+a#a43:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/ne_sxodite_s_yma.jpg") 100px 0;}
+
+a#a44 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/strani_sekret.jpg") 0 0;}
+a#a44:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/strani_sekret.jpg") 100px 0;}
+
+a#a45 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/the_secret.jpg") 0 0;}
+a#a45:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/the_secret.jpg") 100px 0;}
+
+a#a46 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/sapiens.jpg") 0 0;}
+a#a46:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/sapiens.jpg") 100px 0;}
+
+a#a47 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/google.jpg") 0 0;}
+a#a47:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/google.jpg") 100px 0;}
+
+a#a48 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/s_krisa_13.jpg") 0 0;}
+a#a48:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/s_krisa_13.jpg") 100px 0;}
+
+a#a49 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/genezis.jpg") 0 0;}
+a#a49:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/genezis.jpg") 100px 0;}
+
+a#a50 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pyt_geroia_1.jpg") 0 0;}
+a#a50:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pyt_geroia_1.jpg") 100px 0;}
+
+a#a51 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/novi_mir.jpg") 0 0;}
+a#a51:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/novi_mir.jpg") 100px 0;}
+
+a#a52 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/bird_box_1.jpg") 0 0;}
+a#a52:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/bird_box_1.jpg") 100px 0;}
+
+a#a53 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pyt_geroia_3.jpg") 0 0;}
+a#a53:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/pyt_geroia_3.jpg") 100px 0;}
+
+a#a54 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kniga_djunglei.jpg") 0 0;}
+a#a54:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kniga_djunglei.jpg") 100px 0;}
+
+a#a55 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_2034.jpg") 0 0;}
+a#a55:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_2034.jpg") 100px 0;}
+
+a#a56 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/overlord_2.jpg") 0 0;}
+a#a56:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/overlord_2.jpg") 100px 0;}
+
+a#a57 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/magia_ytra_2.jpg") 0 0;}
+a#a57:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/magia_ytra_2.jpg") 100px 0;}
+
+a#a58 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_2035.jpg") 0 0;}
+a#a58:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_2035.jpg") 100px 0;}
+
+a#a59 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_1.jpg") 0 0;}
+a#a59:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_1.jpg") 100px 0;}
+
+a#a60 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_2.jpg") 0 0;}
+a#a60:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_2.jpg") 100px 0;}
+
+a#a61 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_106.jpg") 0 0;}
+a#a61:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_106.jpg") 100px 0;}
+
+a#a62 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/netflix.jpg") 0 0;}
+a#a62:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/netflix.jpg") 100px 0;}
+
+a#a63 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_3.jpg") 0 0;}
+a#a63:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_3.jpg") 100px 0;}
+
+a#a64 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_4.jpg") 0 0;}
+a#a64:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_4.jpg") 100px 0;}
+
+a#a65 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/tochka_fokusa.jpg") 0 0;}
+a#a65:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/tochka_fokusa.jpg") 100px 0;}
+
+a#a66 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_5.jpg") 0 0;}
+a#a66:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_5.jpg") 100px 0;}
+
+a#a67 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/r_investor.jpg") 0 0;}
+a#a67:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/r_investor.jpg") 100px 0;}
+
+a#a68 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_4.jpg") 0 0;}
+a#a68:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_4.jpg") 100px 0;}
+
+a#a69 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/mani.jpg") 0 0;}
+a#a69:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/mani.jpg") 100px 0;}
+
+a#a70 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_5.jpg") 0 0;}
+a#a70:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_5.jpg") 100px 0;}
+
+a#a71 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_6.jpg") 0 0;}
+a#a71:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_6.jpg") 100px 0;}
+
+a#a72{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/shefer_2.jpg") 0 0;}
+a#a72:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/shefer_2.jpg") 100px 0;}
+
+a#a73{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_6.jpg") 0 0;}
+a#a73:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_6.jpg") 100px 0;}
+
+a#a74{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/127_privichek.jpg") 0 0;}
+a#a74:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/127_privichek.jpg") 100px 0;}
+
+a#a75{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_7.jpg") 0 0;}
+a#a75:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_7.jpg") 100px 0;}
+
+a#a76{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_8.jpg") 0 0;}
+a#a76:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_8.jpg") 100px 0;}
+
+a#a77{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/enshtein.jpg") 0 0;}
+a#a77:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/enshtein.jpg") 100px 0;}
+
+a#a78{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/labirint_otr_1.jpg") 0 0;}
+a#a78:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/labirint_otr_1.jpg") 100px 0;}
+
+a#a79{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/labirint_otr_2.jpg") 0 0;}
+a#a79:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/labirint_otr_2.jpg") 100px 0;}
+
+a#a80{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/labirint_otr_3.jpg") 0 0;}
+a#a80:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/labirint_otr_3.jpg") 100px 0;}
+
+a#a81{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_9.jpg") 0 0;}
+a#a81:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_9.jpg") 100px 0;}
+
+a#a82{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_10.jpg") 0 0;}
+a#a82:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_10.jpg") 100px 0;}
+
+a#a83{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kovi_1.jpg") 0 0;}
+a#a83:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/kovi_1.jpg") 100px 0;}
+
+a#a84{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_11.jpg") 0 0;}
+a#a84:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_11.jpg") 100px 0;}
+
+a#a85{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/15_time.jpg") 0 0;}
+a#a85:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/15_time.jpg") 100px 0;}
+
+a#a86{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/run_hack.jpg") 0 0;}
+a#a86:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/run_hack.jpg") 100px 0;}
+
+a#a87{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/manyskript.jpg") 0 0;}
+a#a87:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/manyskript.jpg") 100px 0;}
+
+a#a88{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zig.jpg") 0 0;}
+a#a88:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zig.jpg") 100px 0;}
+
+a#a89{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_12.jpg") 0 0;}
+a#a89:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_12.jpg") 100px 0;}
+
+a#a90{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/porog_1.jpg") 0 0;}
+a#a90:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/porog_1.jpg") 100px 0;}
+
+a#a91{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/porog_2.jpg") 0 0;}
+a#a91:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/porog_2.jpg") 100px 0;}
+
+a#a92 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_01.jpg") 0 0;}
+a#a92:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_01.jpg") 100px 0;}
+
+a#a93 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/levsha.jpg") 0 0;}
+a#a93:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/levsha.jpg") 100px 0;}
+
+a#a94 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/v_sad.jpg") 0 0;}
+a#a94:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/v_sad.jpg") 100px 0;}
+
+a#a95 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_02.jpg") 0 0;}
+a#a95:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_02.jpg") 100px 0;}
+
+a#a96 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_03.jpg") 0 0;}
+a#a96:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/dozor_03.jpg") 100px 0;}
+
+a#a97{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_13.jpg") 0 0;}
+a#a97:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_13.jpg") 100px 0;}
+
+a#a98{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/51_praktika.jpg") 0 0;}
+a#a98:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/51_praktika.jpg") 100px 0;}
+
+a#a99{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/z_apelsin.jpg") 0 0;}
+a#a99:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/z_apelsin.jpg") 100px 0;}
+
+a#a100{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_14.jpg") 0 0;}
+a#a100:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_14.jpg") 100px 0;}
+
+a#a101{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/1_den.jpg") 0 0;}
+a#a101:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/1_den.jpg") 100px 0;}
+
+a#a102{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/55_idei.jpg") 0 0;}
+a#a102:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/55_idei.jpg") 100px 0;}
+
+a#a103{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/mashina_vremeni.jpg") 0 0;}
+a#a103:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/mashina_vremeni.jpg") 100px 0;}
+
+a#a104{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/amazon.jpg") 0 0;}
+a#a104:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/amazon.jpg") 100px 0;}
+
+a#a105{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_15.jpg") 0 0;}
+a#a105:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_15.jpg") 100px 0;}
+
+a#a106{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_16.jpg") 0 0;}
+a#a106:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_16.jpg") 100px 0;}
+
+a#a107{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_22.jpg") 0 0;}
+a#a107:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_22.jpg") 100px 0;}
+
+a#a108{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_25.jpg") 0 0;}
+a#a108:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/metro_25.jpg") 100px 0;}
+
+a#a109{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/lord_s_planeti_zemlia.jpg") 0 0;}
+a#a109:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/lord_s_planeti_zemlia.jpg") 100px 0;}
+
+a#a110{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/god_ef.jpg") 0 0;}
+a#a110:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/god_ef.jpg") 100px 0;}
+
+a#a111{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/duna_1.jpg") 0 0;}
+a#a111:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/duna_1.jpg") 100px 0;}
+
+a#a112{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/duna_2.jpg") 0 0;}
+a#a112:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/duna_2.jpg") 100px 0;}
+
+a#a113{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/duna_3.jpg") 0 0;}
+a#a113:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/duna_3.jpg") 100px 0;}
+
+a#a114{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/sr_palec.jpg") 0 0;}
+a#a114:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/sr_palec.jpg") 100px 0;}
+
+a#a115{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zvezdi_1.jpg") 0 0;}
+a#a115:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/zvezdi_1.jpg") 100px 0;}
+
+a#a116{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/psixovampiri.jpg") 0 0;}
+a#a116:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/psixovampiri.jpg") 100px 0;}
+
+a#a117{width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/yslishat.jpg") 0 0;}
+a#a117:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/yslishat.jpg") 100px 0;}

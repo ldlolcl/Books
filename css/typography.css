@@ -1,0 +1,105 @@
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProRegular.woff") format("woff"),
+    url("../fonts/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "MyriadProBold"; */
+@font-face {
+    font-family: "MyriadProBold";
+    src: url("../fonts/MyriadProBold.eot");
+    src: url("../fonts/MyriadProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProBold.woff") format("woff"),
+    url("../fonts/MyriadProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+   
+h1 {
+	color: #4d4d4d;
+	font-family: "MyriadProRegular", Helvetica, Arial, sans-serif;
+	font-size: 48px;
+	font-weight: normal;
+}
+
+h1 a { color: #4d4d4d; text-decoration: none; }
+
+h2 {
+	color: #6ec9cc;
+	font-family: "MyriadProRegular", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	letter-spacing: 28px;
+	text-transform: uppercase;
+}
+
+h3 {
+	color: #6ec9cc;
+	font-family: "MyriadProRegular", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+    padding:10px 0 0 24px;
+}
+
+h4 {
+	color: #031B30;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	text-align: left;
+padding:5px 0 5px 0;
+
+}
+
+h4 a { color: #ffffff; text-decoration: none; }
+
+h5 {
+	color: #6ec9cc;
+	font-family: "MyriadProRegular", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+h5 a { color: #6ec9cc; text-decoration: none; }
+
+/* Paragraph styling */
+
+p {
+	color: #525252;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 15px;
+    padding: 15px 25px 0px 25px;
+    font-weight: normal;
+}
+
+p.meta { color: #707070; font-size: 10px; text-align: right; }
+
+p#footer-text { text-align: center; }
+
+p.logodesc {
+        font-family: "MyriadProRegular", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        color:  #7C7C7C;
+        padding: 0;
+}
+
+div#message p { color: #4d4d4d; line-height: 20px; }
+
+/* Link styling */
+
+a { 
+	color: #0F7ADB; 
+	text-decoration: underline; 
+}
+
+a#link1 {    /* Div content */
+    font-size: 13px;
+    font-family: "MyriadProRegular", Helvetica, Arial, sans-serif;
+}
+
+p#action-bar a { color: #ffffff; }
+
+p#action-bar a:hover { color: #6eb9cc; }
+
