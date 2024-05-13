@@ -1,6 +1,6 @@
 @import url('reset.css');
 @import url('typography.css');
-body {	background-color: #e0e0e0;}
+body {background-color: #e0e0e0;}
 /* Status Bar */
 /* div#body */
 div#body {margin: 20px auto 20px auto;
@@ -8,13 +8,13 @@ div#body {margin: 20px auto 20px auto;
 div#body-con {
     padding: 25px;
     background: #fff;
-   -webkit-box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
-   -moz-box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
-   box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
-min-height:800px;}
+    -webkit-box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
+    -moz-box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
+    box-shadow: 0px 0px 9px 0px rgba(128,125,128,1);
+    min-height:800px;}
 td img {padding-right:1px;}
 
-div#block {width:1009px;padding:0px;;margin:0px;display:block;overflow-x:auto;}
+div#block {width:1009px;padding:0px;margin:0px;display:block;overflow-x:auto;}
 
 a#a1 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/brian_tracy_1.jpg") 0 0;}
 a#a1:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/brian_tracy_1.jpg") 100px 0;}
