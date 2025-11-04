@@ -15,6 +15,15 @@ div#body-con {
 td img {padding:0; }
 div#block {width:1000px;padding:0px;margin:0px;display:block;overflow-x:auto;}
 
+#toggle-recent-2020 {background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;}
+#toggle-recent-2021 {background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;}
+#toggle-recent-2022 {background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;}
+#toggle-recent-2023 {background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;}
+#toggle-recent-2024 {background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;}
+#toggle-recent-2025 {background:none;border:none;color:inherit;font:inherit;cursor:pointer;padding:0;}
+
+.hidden {display: none !important;}
+
 a#a1 {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/brian_tracy_1.jpg") 0 0;}
 a#a1:hover {width:100px;height:150px;margin:0;padding:0;display:block;background: url("../jpg/brian_tracy_1.jpg") 100px 0;}
 
