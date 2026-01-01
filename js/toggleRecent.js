@@ -53,3 +53,12 @@ document.addEventListener("DOMContentLoaded", () => {
     container.classList.toggle("hidden");
   });
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("toggle-recent-2026");
+  const container = document.getElementById("recent-container-2026");
+  if (!btn || !container) return; 
+  btn.addEventListener("click", () => {
+    container.classList.toggle("hidden");
+  });
+});
